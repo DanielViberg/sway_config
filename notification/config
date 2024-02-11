@@ -1,0 +1,11 @@
+# Define the position where notifications should appear on the screen
+position = bottom-left
+
+# Set the timeout for notifications in milliseconds (5000 ms = 5 seconds)
+timeout = 5000
+
+# Set the background color for notifications
+background-color = #333333
+
+# Set the text color for notifications
+foreground-color = #ffffff
